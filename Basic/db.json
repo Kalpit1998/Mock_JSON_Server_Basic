@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburger",
+      "price": 7,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Ice Cream",
+      "price": 2.5,
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "sdsd",
+      "price": "1212"
+    },
+    {
+      "id": 4,
+      "name": "vannila",
+      "price": 6,
+      "active": true
+    },
+    {
+      "name": "ABCD",
+      "price": "500",
+      "id": "5"
+    },
+    {
+      "name": "Cow Milk",
+      "price": "45",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "name": "Cream",
+      "price": "80"
+    }
+  ]
+}
